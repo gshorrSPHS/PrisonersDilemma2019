@@ -8,7 +8,7 @@
 import random 
 
 team_name = 'Twoface'
-team_strategy =  'heads collude, tails betray'
+strategy_name =  'heads collude, tails betray'
 strategy_description = 'The world is cruel. And the only morality in a cruel world is chance.'
     
 
